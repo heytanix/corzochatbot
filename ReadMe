@@ -1,0 +1,2 @@
+Chatbot.py -> This is the main python script of the Corzo Chatbot (Name of bot can be changed here)
+knowledge_base.json -> This file is important as this is where the bot fetches existing responses from or stores the newly fed response from the user
